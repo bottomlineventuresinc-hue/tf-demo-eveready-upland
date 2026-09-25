@@ -57,7 +57,7 @@
       apply: function () {
         if (heroLede) {
           heroLede.textContent =
-            'Panel upgrades and residential wiring across Upland and the Inland Empire. Everitt looks at the house first and puts the price in writing.';
+            'Panel upgrades and residential wiring in Upland. Everitt looks at the house first and puts the price in writing.';
         }
       }
     },
